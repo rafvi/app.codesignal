@@ -1,0 +1,7 @@
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\obj\Debug\amendTheSentence.csprojAssemblyReference.cache
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\obj\Debug\amendTheSentence.csproj.CoreCompileInputs.cache
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\bin\Debug\amendTheSentence.exe.config
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\bin\Debug\amendTheSentence.exe
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\bin\Debug\amendTheSentence.pdb
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\obj\Debug\amendTheSentence.exe
+C:\Users\Raffi\source\repos\amendTheSentence\amendTheSentence\obj\Debug\amendTheSentence.pdb
